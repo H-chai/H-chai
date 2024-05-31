@@ -16,20 +16,24 @@
 
 ## Projects
 
-- [Rainy Days](https://github.com/NoroffFEU/html-css-course-assignment-Hikari)
-- [Community Science Museum](https://github.com/H-chai/Semester-Project-1)
-- [HotView Labs](https://github.com/NoroffFEU/FED1-PE1-H-chai)
-- <!--
-  **H-chai/H-chai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌂 [Rainy Days](https://github.com/NoroffFEU/html-css-course-assignment-Hikari) (Design, HTML, CSS)
+- 👩‍🔬 [Community Science Museum](https://github.com/H-chai/Semester-Project-1) (Design, HTML, CSS)
+- 🧥 [Rainy Days](https://github.com/H-chai/JS1-CA) (Applied JavaScript to the former project 'Rainy Days')
+- 🖥 [HotView Labs](https://github.com/NoroffFEU/FED1-PE1-H-chai) (Design, HTML, CSS, JS)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+## Status
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-chai&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=H-chai" />
+</p>
+
+<br>
+
+## Contact me
+
+Feel free to contact me 😊
+
+[My LinkedIn Page](https://www.linkedin.com/in/hikari-%C3%B8verby-957493241)
