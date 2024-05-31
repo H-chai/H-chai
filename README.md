@@ -8,10 +8,13 @@
 
 ## Skills and Tools
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,github,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,html,css,github,figma,xd" />
 
-<!--
-**H-chai/H-chai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+
+- [Community Science Museum](https://github.com/H-chai/Semester-Project-1)
+- <!--
+  **H-chai/H-chai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
