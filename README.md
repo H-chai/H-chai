@@ -12,7 +12,9 @@
 
 ## Projects
 
+- [Rainy Days](https://github.com/NoroffFEU/html-css-course-assignment-Hikari)
 - [Community Science Museum](https://github.com/H-chai/Semester-Project-1)
+- [HotView Labs](https://github.com/NoroffFEU/FED1-PE1-H-chai)
 - <!--
   **H-chai/H-chai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
