@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi 👋 I'm Hikari Øverby!
+
+#### I am a student of Front-End Development at Noroff School of Technology and Digital Media in Norway.
+
+- ❤️‍🔥 I'm passionate about creating interactive and responsive web applications.
+- 👩‍💻 I'm eager to contribute to innovative projects and collaborate with talented teams to build user-friendly digital experiences.
+- 💼 I am currently seeking opportunities to apply my skills in a professional setting and am open to work in roles related to front-end development and related fields.
+
+## Skills and Tools
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,github,figma" />
 
 <!--
 **H-chai/H-chai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
