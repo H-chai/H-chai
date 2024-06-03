@@ -36,4 +36,4 @@
 
 Feel free to contact me 😊
 
-[My LinkedIn Page](https://www.linkedin.com/in/hikari-%C3%B8verby-957493241)
+[My Linkedin Page](https://www.linkedin.com/in/hikari-%C3%B8verby-957493241)
