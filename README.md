@@ -17,7 +17,6 @@
 ## Projects
 
 - 📱 [A client-side social media application](https://github.com/NoroffFEU/fed2-js2-ca-H-chai) (Wireframe, HTML, CSS, JavaScript) 🆕 Working on now
-- 🎀 [Portfolio](https://github.com/H-chai/Portfolio) (Design, HTML, CSS, JavaScript) 🆕 Working on now
 - 🖥 [HotView Labs](https://github.com/NoroffFEU/FED1-PE1-H-chai) (Design, HTML, CSS, JavaScript) 
 - 🧥 [Rainy Days](https://github.com/H-chai/JS1-CA) (Applied JavaScript to the former project 'Rainy Days')
 - 👩‍🔬 [Community Science Museum](https://github.com/H-chai/Semester-Project-1) (Design, HTML, CSS)
