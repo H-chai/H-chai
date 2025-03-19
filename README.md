@@ -16,10 +16,10 @@
 
 ## Projects
 
-- 🖥 [Portfolio](https://github.com/H-chai/Portfolio) (Design, HTML, CSS, React)
-- 🖥 [eCom](https://github.com/H-chai/react-ecom) (Design, HTML, CSS, React)
-- 🖥 [CrediBid](https://github.com/H-chai/Auction-semester-project) (Design, HTML, Tailwind CSS, JS)
-- 🖥 [Postlyfe](https://github.com/NoroffFEU/FED1-PE1-H-chai) (Design, HTML, Tailwind CSS, JS)
+- 💁🏻‍♀️ [Portfolio](https://github.com/H-chai/Portfolio) (Design, HTML, CSS, React)
+- 🛍️ [eCom](https://github.com/H-chai/react-ecom) (Design, HTML, CSS, React)
+- 🖼️ [CrediBid](https://github.com/H-chai/Auction-semester-project) (Design, HTML, Tailwind CSS, JS)
+- 💻 [Postlyfe](https://github.com/NoroffFEU/FED1-PE1-H-chai) (Design, HTML, Tailwind CSS, JS)
 - 👩‍🔬 [Community Science Museum](https://github.com/H-chai/Semester-Project-1) (Design, HTML, CSS)
 
 <br>
