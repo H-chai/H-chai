@@ -1,10 +1,11 @@
-## Hi 👋 I'm Hikari Øverby!
+## Hi 👋 I'm Hikari!
 
-#### I am a student of Front-End Development at Noroff School of Technology and Digital Media in Norway 🇸🇯.
+#### 💁‍♀️ I'm a Front-End Developer and Web Designer based in Norway 🇳🇴.
 
-- ❤️‍🔥 I'm passionate about creating interactive and responsive web applications.
-- 👩‍💻 I'm eager to contribute to innovative projects and collaborate with talented teams to build user-friendly digital experiences.
-- 💼 I am currently seeking opportunities to apply my skills in a professional setting and am open to work in roles related to front-end development and related fields.
+- 💻 I have hands-on experience in both web development and design, working with HTML, CSS, JavaScript, TypeScript, React, and WordPress.
+- 🎨 I enjoy creating user-friendly and responsive websites, from wireframes and interactive prototypes in Figma to fully developed websites.
+- ❤️‍🔥 I'm passionate about combining design and technology to create engaging digital experiences.
+- 🚀 I'm always eager to learn new technologies, collaborate with others, and take on new challenges. I'm open to new opportunities in front-end development and web design.
 
 <br>
 
